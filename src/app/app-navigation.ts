@@ -17,5 +17,15 @@ export const navigation = [
         path: '/tasks'
       }
     ]
-  }
+  },
+  {
+    text: 'Test',
+    icon: 'folder',
+    items: [
+      {
+        text: 'Formulario',
+        path: '/pages/formulario'
+      }
+    ]
+  }  
 ];
